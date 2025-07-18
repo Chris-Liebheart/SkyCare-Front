@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "b38c",
+      "name": "Dylan",
+      "identify": "1044618270",
+      "phone": "3007212879",
+      "address": "Calle",
+      "city": "Barranquilla",
+      "email": "marindylan@gmail.com",
+      "password": "12345",
+      "role": "user"
+    },
+    {
+      "id": "2457",
+      "name": "admin",
+      "identify": "1234567890",
+      "phone": "1111111111",
+      "address": "true",
+      "city": "Barranquilla",
+      "email": "admin@admin.com",
+      "password": "admin12345",
+      "role": "admin"
+    },
+    {
+      "id": "912b",
+      "name": "user",
+      "identify": "1044618270",
+      "phone": "1111111111",
+      "address": "true",
+      "city": "Barranquilla",
+      "email": "user@user.com",
+      "password": "user12345",
+      "personalcare": "Tengo piel sensible",
+      "role": "user"
+    }
+  ]
+}
