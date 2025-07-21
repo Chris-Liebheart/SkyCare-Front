@@ -8,7 +8,15 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "tail-name": "my-login",
+  "tail-version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "tail-scripts": {
+    "build": "tailwindcss -i styles.css -o output.css --watch"
+  },
   "devDependencies": {
+    "tailwindcss": "^4.1.11",
     "vite": "^7.0.4"
   }
 }
